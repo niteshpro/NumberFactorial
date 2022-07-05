@@ -1,0 +1,15 @@
+C:\Users\nitesh\Desktop\C#\factorials\factorials\bin\Debug\net6.0\factorials.exe
+C:\Users\nitesh\Desktop\C#\factorials\factorials\bin\Debug\net6.0\factorials.deps.json
+C:\Users\nitesh\Desktop\C#\factorials\factorials\bin\Debug\net6.0\factorials.runtimeconfig.json
+C:\Users\nitesh\Desktop\C#\factorials\factorials\bin\Debug\net6.0\factorials.dll
+C:\Users\nitesh\Desktop\C#\factorials\factorials\bin\Debug\net6.0\factorials.pdb
+C:\Users\nitesh\Desktop\C#\factorials\factorials\obj\Debug\net6.0\factorials.csproj.AssemblyReference.cache
+C:\Users\nitesh\Desktop\C#\factorials\factorials\obj\Debug\net6.0\factorials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitesh\Desktop\C#\factorials\factorials\obj\Debug\net6.0\factorials.AssemblyInfoInputs.cache
+C:\Users\nitesh\Desktop\C#\factorials\factorials\obj\Debug\net6.0\factorials.AssemblyInfo.cs
+C:\Users\nitesh\Desktop\C#\factorials\factorials\obj\Debug\net6.0\factorials.csproj.CoreCompileInputs.cache
+C:\Users\nitesh\Desktop\C#\factorials\factorials\obj\Debug\net6.0\factorials.dll
+C:\Users\nitesh\Desktop\C#\factorials\factorials\obj\Debug\net6.0\refint\factorials.dll
+C:\Users\nitesh\Desktop\C#\factorials\factorials\obj\Debug\net6.0\factorials.pdb
+C:\Users\nitesh\Desktop\C#\factorials\factorials\obj\Debug\net6.0\factorials.genruntimeconfig.cache
+C:\Users\nitesh\Desktop\C#\factorials\factorials\obj\Debug\net6.0\ref\factorials.dll
